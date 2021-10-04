@@ -1,6 +1,6 @@
 # akiba
 
-![grab-landing-page](https://github.com/BonifaceKamau/SlidingDrawerLayout/blob/main/sliding_nav.gif)
+![Sliding Drawer](https://github.com/BonifaceKamau/SlidingDrawerLayout/blob/main/sliding_nav.gif)
 
 A new Flutter project.
 
