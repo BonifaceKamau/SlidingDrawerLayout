@@ -1,5 +1,7 @@
 # akiba
 
+![grab-landing-page](https://github.com/BonifaceKamau/SlidingDrawerLayout/blob/main/sliding_nav.gif)
+
 A new Flutter project.
 
 ## Getting Started
